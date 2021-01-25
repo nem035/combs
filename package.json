@@ -1,0 +1,26 @@
+{
+  "name": "@nem035/combs",
+  "version": "1.0.0",
+  "author": "nemanjacoder@gmail.com",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "dotenv-ssm": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-in-case": "^1.0.2"
+  }
+}
